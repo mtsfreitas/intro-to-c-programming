@@ -1,0 +1,4 @@
+3031;Matheus Freitas Martins;10;10;10;
+3032;Antenor Albuquerque;5;4;3;
+3033;Pafuncio Figueiredo;7;7;7;
+3034;Nirosmar Fransico;1.5;1.5;1.5;
